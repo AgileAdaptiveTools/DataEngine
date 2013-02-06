@@ -40,5 +40,17 @@
             <dd> Simple service that retrieves a data source from any server.  Example:  <a href="/DataEngine/source?url=http://localhost:8080/DataEngine/product/sample_files_sample_cwl.json">/DataEngine/source?url=http://localhost:8080/DataEngine/product/sample_files_sample_cwl.json</a></dd>
         </dl>
 
+        <h2>Description Files</h2>
+        <p>Description files are used throughout the DataEngine to specify information about data feeds and processes.
+            Currently, there are 2 kinds of description files
+            <dl class="dl-horizontal">
+                <dt> <a href="/DataEngine/idl/index.html">IDL</a> </dt>
+                <dd> Ingest Description Language files describe data feeds</dd>
+                <dt> <a href="/DataEngine/pdl/index.html">PDL</a> </dt>
+                <dd> Process Description Language files describe processes to act upon data feeds</dd>
+            </dl>
+        </p>
+
+
     </body>
 </html>

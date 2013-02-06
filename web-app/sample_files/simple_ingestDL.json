@@ -1,22 +1,23 @@
 {
     "version":"Ingest Description Language (IDL) v1.1301.23",
     "idl_uuid":12345,
-    "title":"Sample XXX from YYY",
+    "title":"Hospitals from wikimapia",
     "poc":"john@example.com (John Smith)",
     "creationDate":"2013-01-08T06:00:02Z",
     "modificationDate":"2013-01-08T06:00:02Z",
-    "source":"http://api.wikimapia.org/?function=search&q=hospital&key=B0FE3160-2D9C9F66-94714E0E-99209DE4-8675BE00-8A7BAC15-C79D9669-A00E3FD5&lat=42.0000000&lon=-72.0000000&disable=polygon&format=json&count=500",
+    "source":"http://localhost:8080/DataEngine/sample_files/wikimapia_hospitals.json",
+    "source_format":"json",
     "source_uri":"http://seamlessc2.mitre.org/DataEngine/source/203451231234",
     "description":"Description of the datafeed",
     "dslv":{
-        "$default_includes": "all",
-        "id":[ "String", "$uuid" ],
+        "$default_includes": "none",
+        "id":[ "Integer", "$uuid" ],
         "name":[ "String", "$title" ],
         "date":[ "Date", "$startTime", "MM/DD/YY" ],
-        "location.lon":[ "LatLonAlt", "WGS84_String", "$lon" ],
-        "location.lat":[ "LatLonAlt", "WGS84_String", "$lat" ],
-        "place":[ "String", "state" ],
-        "country": [ "Country", "countryCode3" ],
+        "location.lon":[ "LatLonAlt", "WGS84_Map", "$lon" ],
+        "location.lat":[ "LatLonAlt", "WGS84_Map", "$lat" ],
+        "location.place":[ "Hashmap", "state" ],
+        "location.country": [ "Country", "countryCode3", "country" ],
         "address":[ "LatLonAlt", "StreetAddress", "Latitude", "Longitude", "Altitude" ]
     }
 }

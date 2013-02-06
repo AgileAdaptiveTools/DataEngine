@@ -73,6 +73,14 @@
 
 <h3 id="Examples">Examples</h3>
 
+<h4>Sample IDL files</h4>
+<p>Below are a sampling of IDL files:
+    <ul>
+    <li><a href="/DataEngine/sample_files/join_data_1_idl.json">Simple IDL for a local cache of a wikimapia feed of hospitals</a></li>
+    <li><a href="/DataEngine/sample_files/join_data_2_idl.json">Simple IDL for a local CSV file</a></li>
+</ul>
+</p>
+
 <h4>GET</h4>
 <p>The GET variant of the web service retrieves IDL(s).</p>
 
