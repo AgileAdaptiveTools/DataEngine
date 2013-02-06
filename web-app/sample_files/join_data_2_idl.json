@@ -1,0 +1,25 @@
+{
+    "version": "Ingest Description Language (IDL) v1.1212.27",
+    "idl_uuid": 5,
+    "title": "Join Data 2 IDL",
+    "poc": "john@example.com (John Smith)",
+    "creationDate": "2013-01-25T05:44:14Z",
+    "modificationDate": "2013-01-25T05:44:14Z",
+    "source": "http://localhost:8080/DataEngine/sample_files/join_data_2.csv",
+    "source_format":"csv",
+    "source_uri": "http://seamlessc2.mitre.org/DataEngine/source/203451231234",
+    "description": "Description of the datafeed",
+    "dslv": {
+        "numBeds":
+                [
+                    "String",
+                    "beds"
+                ],
+        "$default_includes": "all",
+        "uuid":
+                [
+                    "String",
+                    "$uuid"
+                ]
+    }
+}

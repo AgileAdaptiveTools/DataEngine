@@ -1,0 +1,2922 @@
+{
+    "datatype": "CONTAINER",
+    "label": "null",
+    "uuid": "debe23c8-83e9-4ed8-bbb2-92d029241714",
+    "parentuuid":  "debe23c8-83e9-4ed8-bbb2-92d029241714",
+    "source":  "null",
+    "children": [
+
+        {
+            "datatype": "EVENT",
+            "label": "can join",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "2351057",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 2351057,
+                "numBeds": "50",
+                "distance": 9422,
+                "location": {
+                    "lon": -72.0419294,
+                    "south": 42.0779232,
+                    "east": -72.0406795,
+                    "north": 42.07948,
+                    "place": "Massachusetts",
+                    "west": -72.0431793,
+                    "lat": 42.0787016,
+                    "country": "USA"
+                },
+                "name": "Harrington Memorial Hospital",
+                "uuid": "2351057",
+                "poc": "John Smith",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "can join",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "2351053",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 2351053,
+                "numBeds": "100",
+                "distance": 12500,
+                "location": {
+                    "lon": -71.853448,
+                    "south": 42.025874,
+                    "east": -71.849218,
+                    "north": 42.029022,
+                    "place": "Massachusetts",
+                    "west": -71.857678,
+                    "lat": 42.027448,
+                    "country": "USA"
+                },
+                "name": "Hubbard Hospital",
+                "uuid": "2351053",
+                "poc": "John Bigboote",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Day-Kimball Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "10433863",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 10433863,
+                "distance": 12610,
+                "location": {
+                    "lon": -71.9138378,
+                    "south": 41.9051996,
+                    "east": -71.9120622,
+                    "north": 41.9079783,
+                    "place": "Connecticut",
+                    "west": -71.9156134,
+                    "lat": 41.9065889,
+                    "country": "USA"
+                },
+                "name": "Day-Kimball Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "can join",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "7935265",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 7935265,
+                "numBeds": "150",
+                "distance": 19708,
+                "location": {
+                    "lon": -71.761794,
+                    "south": 41.9965785,
+                    "east": -71.760528,
+                    "north": 41.9986355,
+                    "place": "Rhode Island",
+                    "west": -71.76306,
+                    "lat": 41.997607,
+                    "country": "USA"
+                },
+                "name": "Eleanor Slater Hospital Zambarano unit",
+                "uuid": "7935265",
+                "poc": "John Appleseed",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "can join",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "1187070",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 1187070,
+                "numBeds": "200",
+                "distance": 31340,
+                "location": {
+                    "lon": -72.3268631,
+                    "south": 42.1369158,
+                    "east": -72.3216784,
+                    "north": 42.1486855,
+                    "place": "Massachusetts",
+                    "west": -72.3320478,
+                    "lat": 42.1428006,
+                    "country": "USA"
+                },
+                "name": "Monson State Hospital-Monson Developmental Center",
+                "uuid": "1187070",
+                "poc": "John Swift",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Site of the former St Vincent Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "15296812",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 15296812,
+                "distance": 32702,
+                "location": {
+                    "lon": -71.7905903,
+                    "south": 42.2481687,
+                    "east": -71.7888093,
+                    "north": 42.2505433,
+                    "place": "Massachusetts",
+                    "west": -71.7923713,
+                    "lat": 42.249356,
+                    "country": "USA"
+                },
+                "name": "Site of the former St Vincent Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Worcester Medical Center - Saint Vincent Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "2351047",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 2351047,
+                "distance": 33894,
+                "location": {
+                    "lon": -71.796915,
+                    "south": 42.2635225,
+                    "east": -71.7960486,
+                    "north": 42.2657238,
+                    "place": "Massachusetts",
+                    "west": -71.7977813,
+                    "lat": 42.2646231,
+                    "country": "USA"
+                },
+                "name": "Worcester Medical Center - Saint Vincent Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Wing Memorial Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "2351067",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 2351067,
+                "distance": 33901,
+                "location": {
+                    "lon": -72.3409745,
+                    "south": 42.168405,
+                    "east": -72.33907,
+                    "north": 42.170481,
+                    "place": "Massachusetts",
+                    "west": -72.342879,
+                    "lat": 42.169443,
+                    "country": "USA"
+                },
+                "name": "Wing Memorial Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "UMass Memorial Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "1536549",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 1536549,
+                "distance": 34895,
+                "location": {
+                    "lon": -71.7917275,
+                    "south": 42.272006,
+                    "east": -71.789925,
+                    "north": 42.27357,
+                    "place": "Massachusetts",
+                    "west": -71.79353,
+                    "lat": 42.272788,
+                    "country": "USA"
+                },
+                "name": "UMass Memorial Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "UMass Memorial Hahnemann Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "2377971",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 2377971,
+                "distance": 36175,
+                "location": {
+                    "lon": -71.7901875,
+                    "south": 42.284508,
+                    "east": -71.78912,
+                    "north": 42.286132,
+                    "place": "Massachusetts",
+                    "west": -71.791255,
+                    "lat": 42.28532,
+                    "country": "USA"
+                },
+                "name": "UMass Memorial Hahnemann Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Worcester State Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "9552846",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 9552846,
+                "distance": 36314,
+                "location": {
+                    "lon": -71.7706025,
+                    "south": 42.2755226,
+                    "east": -71.7671156,
+                    "north": 42.2812063,
+                    "place": "Massachusetts",
+                    "west": -71.7740893,
+                    "lat": 42.2783644,
+                    "country": "USA"
+                },
+                "name": "Worcester State Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Windham Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "4184567",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 4184567,
+                "distance": 36634,
+                "location": {
+                    "lon": -72.2268355,
+                    "south": 41.7162366,
+                    "east": -72.224915,
+                    "north": 41.7189114,
+                    "place": "Connecticut",
+                    "west": -72.228756,
+                    "lat": 41.717574,
+                    "country": "USA"
+                },
+                "name": "Windham Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Windham Hospital Heliport (0CT2)",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "11458391",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 11458391,
+                "distance": 36655,
+                "location": {
+                    "lon": -72.2255615,
+                    "south": 41.7167171,
+                    "east": -72.2254515,
+                    "north": 41.7168773,
+                    "place": "Connecticut",
+                    "west": -72.2256714,
+                    "lat": 41.7167972,
+                    "country": "USA"
+                },
+                "name": "Windham Hospital Heliport (0CT2)",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Hill Side East Cemetery (Worcester State Hospital)",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "21974142",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 21974142,
+                "distance": 37485,
+                "location": {
+                    "lon": -71.7225534,
+                    "south": 42.2657695,
+                    "east": -71.7218345,
+                    "north": 42.2673773,
+                    "place": "Massachusetts",
+                    "west": -71.7232722,
+                    "lat": 42.2665734,
+                    "country": "USA"
+                },
+                "name": "Hill Side East Cemetery (Worcester State Hospital)",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Hill Side West Cemetery (Worcester State Hospital)",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "21974148",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 21974148,
+                "distance": 37652,
+                "location": {
+                    "lon": -71.7239294,
+                    "south": 42.2690088,
+                    "east": -71.723578,
+                    "north": 42.2694792,
+                    "place": "Massachusetts",
+                    "west": -71.7242807,
+                    "lat": 42.269244,
+                    "country": "USA"
+                },
+                "name": "Hill Side West Cemetery (Worcester State Hospital)",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Grafton State Hospital/ Job Corps campus",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "10610063",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 10610063,
+                "distance": 38560,
+                "location": {
+                    "lon": -71.6811629,
+                    "south": 42.2473785,
+                    "east": -71.6728091,
+                    "north": 42.2588814,
+                    "place": "Massachusetts",
+                    "west": -71.6895166,
+                    "lat": 42.2531299,
+                    "country": "USA"
+                },
+                "name": "Grafton State Hospital/ Job Corps campus",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Rockville General Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "3542283",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 3542283,
+                "distance": 40199,
+                "location": {
+                    "lon": -72.4509955,
+                    "south": 41.865902,
+                    "east": -72.449791,
+                    "north": 41.866952,
+                    "place": "Connecticut",
+                    "west": -72.4522,
+                    "lat": 41.866427,
+                    "country": "USA"
+                },
+                "name": "Rockville General Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Milford Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "2377975",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 2377975,
+                "distance": 41693,
+                "location": {
+                    "lon": -71.5284768,
+                    "south": 42.132715,
+                    "east": -71.5275836,
+                    "north": 42.1337771,
+                    "place": "Massachusetts",
+                    "west": -71.52937,
+                    "lat": 42.133246,
+                    "country": "USA"
+                },
+                "name": "Milford Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Westborough State Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "1386124",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 1386124,
+                "distance": 46493,
+                "location": {
+                    "lon": -71.6068805,
+                    "south": 42.293707,
+                    "east": -71.6023958,
+                    "north": 42.3046223,
+                    "place": "Massachusetts",
+                    "west": -71.6113651,
+                    "lat": 42.2991646,
+                    "country": "USA"
+                },
+                "name": "Westborough State Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Springfield Municipal Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "1919990",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 1919990,
+                "distance": 47189,
+                "location": {
+                    "lon": -72.5474455,
+                    "south": 42.118631,
+                    "east": -72.54545,
+                    "north": 42.122275,
+                    "place": "Massachusetts",
+                    "west": -72.549441,
+                    "lat": 42.120453,
+                    "country": "USA"
+                },
+                "name": "Springfield Municipal Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Our Lady of Fatima Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "1397242",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 1397242,
+                "distance": 47512,
+                "location": {
+                    "lon": -71.4602065,
+                    "south": 41.8543632,
+                    "east": -71.4584255,
+                    "north": 41.8565767,
+                    "place": "Rhode Island",
+                    "west": -71.4619875,
+                    "lat": 41.8554699,
+                    "country": "USA"
+                },
+                "name": "Our Lady of Fatima Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Atwood Animal Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "5960350",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 5960350,
+                "distance": 49773,
+                "location": {
+                    "lon": -71.473232,
+                    "south": 41.784985,
+                    "east": -71.4728995,
+                    "north": 41.785321,
+                    "place": "Rhode Island",
+                    "west": -71.4735645,
+                    "lat": 41.785153,
+                    "country": "USA"
+                },
+                "name": "Atwood Animal Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Mancheter Memorial Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "43584",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 43584,
+                "distance": 49853,
+                "location": {
+                    "lon": -72.5252098,
+                    "south": 41.7799969,
+                    "east": -72.522887,
+                    "north": 41.7831851,
+                    "place": "Connecticut",
+                    "west": -72.5275326,
+                    "lat": 41.781591,
+                    "country": "USA"
+                },
+                "name": "Mancheter Memorial Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Veteran Affairs Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "11846245",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 11846245,
+                "distance": 50592,
+                "location": {
+                    "lon": -71.43273,
+                    "south": 41.8302169,
+                    "east": -71.4308095,
+                    "north": 41.8329269,
+                    "place": "Rhode Island",
+                    "west": -71.4346504,
+                    "lat": 41.8315719,
+                    "country": "USA"
+                },
+                "name": "Veteran Affairs Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Shriners Hospital for Children Sprinfield",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "1919987",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 1919987,
+                "distance": 50759,
+                "location": {
+                    "lon": -72.592088,
+                    "south": 42.120174,
+                    "east": -72.590575,
+                    "north": 42.122212,
+                    "place": "Massachusetts",
+                    "west": -72.593601,
+                    "lat": 42.121193,
+                    "country": "USA"
+                },
+                "name": "Shriners Hospital for Children Sprinfield",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "William W Backus Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "3610107",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 3610107,
+                "distance": 51426,
+                "location": {
+                    "lon": -72.0889485,
+                    "south": 41.5416062,
+                    "east": -72.086556,
+                    "north": 41.5440072,
+                    "place": "Connecticut",
+                    "west": -72.091341,
+                    "lat": 41.5428067,
+                    "country": "USA"
+                },
+                "name": "William W Backus Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "The Miriam Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "99717",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 99717,
+                "distance": 52475,
+                "location": {
+                    "lon": -71.3984299,
+                    "south": 41.8511826,
+                    "east": -71.3971746,
+                    "north": 41.8528768,
+                    "place": "Rhode Island",
+                    "west": -71.3996851,
+                    "lat": 41.8520297,
+                    "country": "USA"
+                },
+                "name": "The Miriam Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Rhode Island Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "12427689",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 12427689,
+                "distance": 53099,
+                "location": {
+                    "lon": -71.4114225,
+                    "south": 41.8089565,
+                    "east": -71.4070129,
+                    "north": 41.8134186,
+                    "place": "Rhode Island",
+                    "west": -71.415832,
+                    "lat": 41.8111875,
+                    "country": "USA"
+                },
+                "name": "Rhode Island Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Rhode Island Hospital Heliport (RI25)",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "11480808",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 11480808,
+                "distance": 53305,
+                "location": {
+                    "lon": -71.4098239,
+                    "south": 41.8092164,
+                    "east": -71.4097327,
+                    "north": 41.8093483,
+                    "place": "Rhode Island",
+                    "west": -71.4099151,
+                    "lat": 41.8092823,
+                    "country": "USA"
+                },
+                "name": "Rhode Island Hospital Heliport (RI25)",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Ashland Animal Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "727660",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 727660,
+                "distance": 53592,
+                "location": {
+                    "lon": -71.4534903,
+                    "south": 42.2595544,
+                    "east": -71.4532019,
+                    "north": 42.2600864,
+                    "place": "Massachusetts",
+                    "west": -71.4537786,
+                    "lat": 42.2598204,
+                    "country": "USA"
+                },
+                "name": "Ashland Animal Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Memorial Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "6843828",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 6843828,
+                "distance": 53626,
+                "location": {
+                    "lon": -71.3763568,
+                    "south": 41.8688116,
+                    "east": -71.3745343,
+                    "north": 41.8716445,
+                    "place": "Rhode Island",
+                    "west": -71.3781793,
+                    "lat": 41.870228,
+                    "country": "USA"
+                },
+                "name": "Memorial Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "U Mass Clinton Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "1920045",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 1920045,
+                "distance": 53896,
+                "location": {
+                    "lon": -71.6928479,
+                    "south": 42.4270124,
+                    "east": -71.6921586,
+                    "north": 42.4277766,
+                    "place": "Massachusetts",
+                    "west": -71.6935372,
+                    "lat": 42.4273945,
+                    "country": "USA"
+                },
+                "name": "U Mass Clinton Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Marlborough Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "1497068",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 1497068,
+                "distance": 53938,
+                "location": {
+                    "lon": -71.5552479,
+                    "south": 42.3536284,
+                    "east": -71.5535796,
+                    "north": 42.3567363,
+                    "place": "Massachusetts",
+                    "west": -71.5569162,
+                    "lat": 42.3551823,
+                    "country": "USA"
+                },
+                "name": "Marlborough Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Kent County Memorial Hospital Heliport (RI01)",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "11480645",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 11480645,
+                "distance": 54211,
+                "location": {
+                    "lon": -71.4775162,
+                    "south": 41.7071502,
+                    "east": -71.4774102,
+                    "north": 41.7073104,
+                    "place": "Rhode Island",
+                    "west": -71.4776221,
+                    "lat": 41.7072303,
+                    "country": "USA"
+                },
+                "name": "Kent County Memorial Hospital Heliport (RI01)",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Kent County Memorial Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "4260511",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 4260511,
+                "distance": 54273,
+                "location": {
+                    "lon": -71.477716,
+                    "south": 41.7042547,
+                    "east": -71.4748621,
+                    "north": 41.7079712,
+                    "place": "Rhode Island",
+                    "west": -71.4805698,
+                    "lat": 41.7061129,
+                    "country": "USA"
+                },
+                "name": "Kent County Memorial Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Holyoke Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "23613694",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 23613694,
+                "distance": 56496,
+                "location": {
+                    "lon": -72.6281274,
+                    "south": 42.1993883,
+                    "east": -72.6265234,
+                    "north": 42.20248,
+                    "place": "Massachusetts",
+                    "west": -72.6297313,
+                    "lat": 42.2009341,
+                    "country": "USA"
+                },
+                "name": "Holyoke Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "East Greenwich Animal Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "23581543",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 23581543,
+                "distance": 56650,
+                "location": {
+                    "lon": -71.4963775,
+                    "south": 41.6561285,
+                    "east": -71.4960596,
+                    "north": 41.656382,
+                    "place": "Rhode Island",
+                    "west": -71.4966953,
+                    "lat": 41.6562552,
+                    "country": "USA"
+                },
+                "name": "East Greenwich Animal Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Norwich State Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "5015082",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 5015082,
+                "distance": 57047,
+                "location": {
+                    "lon": -72.0718682,
+                    "south": 41.4836981,
+                    "east": -72.0663428,
+                    "north": 41.4969746,
+                    "place": "Connecticut",
+                    "west": -72.0773935,
+                    "lat": 41.4903363,
+                    "country": "USA"
+                },
+                "name": "Norwich State Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Framingham Union Hospital/MetroWest Medical Center",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "2948813",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 2948813,
+                "distance": 57525,
+                "location": {
+                    "lon": -71.4187235,
+                    "south": 42.2845341,
+                    "east": -71.4178544,
+                    "north": 42.285685,
+                    "place": "Massachusetts",
+                    "west": -71.4195925,
+                    "lat": 42.2851095,
+                    "country": "USA"
+                },
+                "name": "Framingham Union Hospital/MetroWest Medical Center",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Hospital Hill",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "1507116",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 1507116,
+                "distance": 59370,
+                "location": {
+                    "lon": -71.337512,
+                    "south": 42.205586,
+                    "east": -71.335967,
+                    "north": 42.208478,
+                    "place": "Massachusetts",
+                    "west": -71.339057,
+                    "lat": 42.207032,
+                    "country": "USA"
+                },
+                "name": "Hospital Hill",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Medfield State Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "9774846",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 9774846,
+                "distance": 59701,
+                "location": {
+                    "lon": -71.3354516,
+                    "south": 42.2072228,
+                    "east": -71.3302374,
+                    "north": 42.2149151,
+                    "place": "Massachusetts",
+                    "west": -71.3406658,
+                    "lat": 42.2110689,
+                    "country": "USA"
+                },
+                "name": "Medfield State Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Foxboro State Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "15855",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 15855,
+                "distance": 62141,
+                "location": {
+                    "lon": -71.255629,
+                    "south": 42.071851,
+                    "east": -71.251262,
+                    "north": 42.083079,
+                    "place": "Massachusetts",
+                    "west": -71.259996,
+                    "lat": 42.077465,
+                    "country": "USA"
+                },
+                "name": "Foxboro State Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Hartford Hospital Heliport",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "4979647",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 4979647,
+                "distance": 62519,
+                "location": {
+                    "lon": -72.6784759,
+                    "south": 41.754486,
+                    "east": -72.6783809,
+                    "north": 41.75471,
+                    "place": "Connecticut",
+                    "west": -72.6785709,
+                    "lat": 41.754598,
+                    "country": "USA"
+                },
+                "name": "Hartford Hospital Heliport",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Hartford Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "3602017",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 3602017,
+                "distance": 62680,
+                "location": {
+                    "lon": -72.6798715,
+                    "south": 41.751537,
+                    "east": -72.676835,
+                    "north": 41.755306,
+                    "place": "Connecticut",
+                    "west": -72.682908,
+                    "lat": 41.7534215,
+                    "country": "USA"
+                },
+                "name": "Hartford Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Hartford Hospital Employee Parking",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "24607377",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 24607377,
+                "distance": 62851,
+                "location": {
+                    "lon": -72.681868,
+                    "south": 41.7526275,
+                    "east": -72.6811029,
+                    "north": 41.7533198,
+                    "place": "Connecticut",
+                    "west": -72.6826331,
+                    "lat": 41.7529736,
+                    "country": "USA"
+                },
+                "name": "Hartford Hospital Employee Parking",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Leonard Morse Hospital, MetroWest Medical Center",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "1639262",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 1639262,
+                "distance": 63095,
+                "location": {
+                    "lon": -71.335838,
+                    "south": 42.278349,
+                    "east": -71.333177,
+                    "north": 42.282857,
+                    "place": "Massachusetts",
+                    "west": -71.338499,
+                    "lat": 42.280603,
+                    "country": "USA"
+                },
+                "name": "Leonard Morse Hospital, MetroWest Medical Center",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "St. Francis Hospital (main)",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "6852799",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 6852799,
+                "distance": 63111,
+                "location": {
+                    "lon": -72.6982445,
+                    "south": 41.7714877,
+                    "east": -72.6960182,
+                    "north": 41.7758805,
+                    "place": "Connecticut",
+                    "west": -72.7004707,
+                    "lat": 41.7736841,
+                    "country": "USA"
+                },
+                "name": "St. Francis Hospital (main)",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Northampton State Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "1396766",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 1396766,
+                "distance": 64036,
+                "location": {
+                    "lon": -72.649675,
+                    "south": 42.310815,
+                    "east": -72.643769,
+                    "north": 42.318388,
+                    "place": "Massachusetts",
+                    "west": -72.655581,
+                    "lat": 42.3146015,
+                    "country": "USA"
+                },
+                "name": "Northampton State Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Noble Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "24339826",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 24339826,
+                "distance": 64107,
+                "location": {
+                    "lon": -72.759227,
+                    "south": 42.1166603,
+                    "east": -72.7577517,
+                    "north": 42.1192348,
+                    "place": "Massachusetts",
+                    "west": -72.7607022,
+                    "lat": 42.1179475,
+                    "country": "USA"
+                },
+                "name": "Noble Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Hebrew Home and Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "1530443",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 1530443,
+                "distance": 64297,
+                "location": {
+                    "lon": -72.7294473,
+                    "south": 41.8023976,
+                    "east": -72.7288391,
+                    "north": 41.8033624,
+                    "place": "Connecticut",
+                    "west": -72.7300555,
+                    "lat": 41.80288,
+                    "country": "USA"
+                },
+                "name": "Hebrew Home and Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Cooley Dickinson Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "17592301",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 17592301,
+                "distance": 65260,
+                "location": {
+                    "lon": -72.6534408,
+                    "south": 42.3287434,
+                    "east": -72.6514077,
+                    "north": 42.3318923,
+                    "place": "Massachusetts",
+                    "west": -72.6554739,
+                    "lat": 42.3303178,
+                    "country": "USA"
+                },
+                "name": "Cooley Dickinson Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Heywood Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "64891",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 64891,
+                "distance": 65348,
+                "location": {
+                    "lon": -71.9873065,
+                    "south": 42.585124,
+                    "east": -71.986204,
+                    "north": 42.588809,
+                    "place": "Massachusetts",
+                    "west": -71.988409,
+                    "lat": 42.5869665,
+                    "country": "USA"
+                },
+                "name": "Heywood Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Avery Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "4944476",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 4944476,
+                "distance": 65890,
+                "location": {
+                    "lon": -72.7069455,
+                    "south": 41.7276317,
+                    "east": -72.7050626,
+                    "north": 41.7313309,
+                    "place": "Connecticut",
+                    "west": -72.7088284,
+                    "lat": 41.7294813,
+                    "country": "USA"
+                },
+                "name": "Avery Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Connecticut State Veterans Home and Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "3510885",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 3510885,
+                "distance": 66329,
+                "location": {
+                    "lon": -72.6526788,
+                    "south": 41.6527742,
+                    "east": -72.6475657,
+                    "north": 41.6587061,
+                    "place": "Connecticut",
+                    "west": -72.6577918,
+                    "lat": 41.6557401,
+                    "country": "USA"
+                },
+                "name": "Connecticut State Veterans Home and Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Submarine Base Hospital Water Tower",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "10665170",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 10665170,
+                "distance": 67432,
+                "location": {
+                    "lon": -72.0853839,
+                    "south": 41.397407,
+                    "east": -72.0851317,
+                    "north": 41.3977853,
+                    "place": "Connecticut",
+                    "west": -72.085636,
+                    "lat": 41.3975961,
+                    "country": "USA"
+                },
+                "name": "Submarine Base Hospital Water Tower",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Caritas Norwood Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "2351101",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 2351101,
+                "distance": 69210,
+                "location": {
+                    "lon": -71.2018434,
+                    "south": 42.1882861,
+                    "east": -71.2011507,
+                    "north": 42.1900548,
+                    "place": "Massachusetts",
+                    "west": -71.2025361,
+                    "lat": 42.1891704,
+                    "country": "USA"
+                },
+                "name": "Caritas Norwood Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Newington Veterans Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "10636269",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 10636269,
+                "distance": 69828,
+                "location": {
+                    "lon": -72.7409721,
+                    "south": 41.7007542,
+                    "east": -72.7397919,
+                    "north": 41.7030612,
+                    "place": "Connecticut",
+                    "west": -72.7421522,
+                    "lat": 41.7019077,
+                    "country": "USA"
+                },
+                "name": "Newington Veterans Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Beth Israel Deaconess Hospital - Needham",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "2948616",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 2948616,
+                "distance": 70159,
+                "location": {
+                    "lon": -71.23669,
+                    "south": 42.2768771,
+                    "east": -71.2360798,
+                    "north": 42.2776035,
+                    "place": "Massachusetts",
+                    "west": -71.2373002,
+                    "lat": 42.2772403,
+                    "country": "USA"
+                },
+                "name": "Beth Israel Deaconess Hospital - Needham",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Connecticut Valley Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "1503564",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 1503564,
+                "distance": 71935,
+                "location": {
+                    "lon": -72.6265815,
+                    "south": 41.547613,
+                    "east": -72.619758,
+                    "north": 41.559607,
+                    "place": "Connecticut",
+                    "west": -72.633405,
+                    "lat": 41.55361,
+                    "country": "USA"
+                },
+                "name": "Connecticut Valley Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Emerson Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "1496356",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 1496356,
+                "distance": 72025,
+                "location": {
+                    "lon": -71.3751859,
+                    "south": 42.4509005,
+                    "east": -71.3728845,
+                    "north": 42.4537187,
+                    "place": "Massachusetts",
+                    "west": -71.3774872,
+                    "lat": 42.4523096,
+                    "country": "USA"
+                },
+                "name": "Emerson Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Abandoned Portion Connecticut Valley Mental Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "1503565",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 1503565,
+                "distance": 72106,
+                "location": {
+                    "lon": -72.6309535,
+                    "south": 41.553715,
+                    "east": -72.629811,
+                    "north": 41.555906,
+                    "place": "Connecticut",
+                    "west": -72.632096,
+                    "lat": 41.5548105,
+                    "country": "USA"
+                },
+                "name": "Abandoned Portion Connecticut Valley Mental Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Newton-Wellesley Hospital, Newton, MA",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "676285",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 676285,
+                "distance": 72360,
+                "location": {
+                    "lon": -71.2454541,
+                    "south": 42.3298856,
+                    "east": -71.2429663,
+                    "north": 42.3327092,
+                    "place": "Massachusetts",
+                    "west": -71.2479419,
+                    "lat": 42.3312974,
+                    "country": "USA"
+                },
+                "name": "Newton-Wellesley Hospital, Newton, MA",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Westerly Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "14328712",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 14328712,
+                "distance": 72489,
+                "location": {
+                    "lon": -71.8256897,
+                    "south": 41.3610192,
+                    "east": -71.8244022,
+                    "north": 41.3628915,
+                    "place": "Connecticut",
+                    "west": -71.8269771,
+                    "lat": 41.3619553,
+                    "country": "USA"
+                },
+                "name": "Westerly Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Lovering Colony State Hospital (Historical)",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "13448055",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 13448055,
+                "distance": 73059,
+                "location": {
+                    "lon": -71.1268951,
+                    "south": 41.903898,
+                    "east": -71.1263037,
+                    "north": 41.9051337,
+                    "place": "Massachusetts",
+                    "west": -71.1274865,
+                    "lat": 41.9045158,
+                    "country": "USA"
+                },
+                "name": "Lovering Colony State Hospital (Historical)",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Paul A Dever State School Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "20138272",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 20138272,
+                "distance": 73081,
+                "location": {
+                    "lon": -71.1201158,
+                    "south": 41.9442939,
+                    "east": -71.1198261,
+                    "north": 41.9446929,
+                    "place": "Massachusetts",
+                    "west": -71.1204055,
+                    "lat": 41.9444934,
+                    "country": "USA"
+                },
+                "name": "Paul A Dever State School Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Nashoba Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "1396982",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 1396982,
+                "distance": 73215,
+                "location": {
+                    "lon": -71.5740234,
+                    "south": 42.5756641,
+                    "east": -71.5722263,
+                    "north": 42.5789665,
+                    "place": "Massachusetts",
+                    "west": -71.5758204,
+                    "lat": 42.5773153,
+                    "country": "USA"
+                },
+                "name": "Nashoba Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Mt. Hope Animal Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "10512836",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 10512836,
+                "distance": 74258,
+                "location": {
+                    "lon": -71.2533733,
+                    "south": 41.6318794,
+                    "east": -71.2530273,
+                    "north": 41.6322844,
+                    "place": "Rhode Island",
+                    "west": -71.2537193,
+                    "lat": 41.6320819,
+                    "country": "USA"
+                },
+                "name": "Mt. Hope Animal Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Children's Hospital of Boston at Waltham",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "1191959",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 1191959,
+                "distance": 74326,
+                "location": {
+                    "lon": -71.2493366,
+                    "south": 42.3683025,
+                    "east": -71.2482047,
+                    "north": 42.3704427,
+                    "place": "Massachusetts",
+                    "west": -71.2504685,
+                    "lat": 42.3693726,
+                    "country": "USA"
+                },
+                "name": "Children's Hospital of Boston at Waltham",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Lawrence & Memorial Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "655970",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 655970,
+                "distance": 74383,
+                "location": {
+                    "lon": -72.1048406,
+                    "south": 41.3351893,
+                    "east": -72.1028048,
+                    "north": 41.337602,
+                    "place": "Connecticut",
+                    "west": -72.1068764,
+                    "lat": 41.3363956,
+                    "country": "USA"
+                },
+                "name": "Lawrence & Memorial Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "West Roxbury Va Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "1377088",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 1377088,
+                "distance": 74926,
+                "location": {
+                    "lon": -71.1714882,
+                    "south": 42.2729029,
+                    "east": -71.1694229,
+                    "north": 42.2770151,
+                    "place": "Massachusetts",
+                    "west": -71.1735535,
+                    "lat": 42.274959,
+                    "country": "USA"
+                },
+                "name": "West Roxbury Va Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Hospital for Special Care",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "19838454",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 19838454,
+                "distance": 74928,
+                "location": {
+                    "lon": -72.8015658,
+                    "south": 41.6876878,
+                    "east": -72.7988219,
+                    "north": 41.6909887,
+                    "place": "Connecticut",
+                    "west": -72.8043097,
+                    "lat": 41.6893382,
+                    "country": "USA"
+                },
+                "name": "Hospital for Special Care",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Taunton State Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "3632415",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 3632415,
+                "distance": 75046,
+                "location": {
+                    "lon": -71.101284,
+                    "south": 41.906453,
+                    "east": -71.096048,
+                    "north": 41.916649,
+                    "place": "Massachusetts",
+                    "west": -71.10652,
+                    "lat": 41.911551,
+                    "country": "USA"
+                },
+                "name": "Taunton State Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "The Hospital of Central Connecticut at New Britain General Campus",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "4781245",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 4781245,
+                "distance": 75425,
+                "location": {
+                    "lon": -72.7873528,
+                    "south": 41.6599119,
+                    "east": -72.7845955,
+                    "north": 41.6620841,
+                    "place": "Connecticut",
+                    "west": -72.7901101,
+                    "lat": 41.660998,
+                    "country": "USA"
+                },
+                "name": "The Hospital of Central Connecticut at New Britain General Campus",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Morton Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "1515471",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 1515471,
+                "distance": 75624,
+                "location": {
+                    "lon": -71.0952735,
+                    "south": 41.904709,
+                    "east": -71.093758,
+                    "north": 41.907487,
+                    "place": "Massachusetts",
+                    "west": -71.096789,
+                    "lat": 41.906098,
+                    "country": "USA"
+                },
+                "name": "Morton Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Caritas Good Samaritan Hospital - Goddard Campus",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "2351115",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 2351115,
+                "distance": 76584,
+                "location": {
+                    "lon": -71.083442,
+                    "south": 42.098481,
+                    "east": -71.080808,
+                    "north": 42.102573,
+                    "place": "Massachusetts",
+                    "west": -71.086076,
+                    "lat": 42.100527,
+                    "country": "USA"
+                },
+                "name": "Caritas Good Samaritan Hospital - Goddard Campus",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Saint Anne's Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "11868435",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 11868435,
+                "distance": 77314,
+                "location": {
+                    "lon": -71.1640397,
+                    "south": 41.6915135,
+                    "east": -71.162889,
+                    "north": 41.6933882,
+                    "place": "Massachusetts",
+                    "west": -71.1651903,
+                    "lat": 41.6924508,
+                    "country": "USA"
+                },
+                "name": "Saint Anne's Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Charlton Memorial Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "426749",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 426749,
+                "distance": 77829,
+                "location": {
+                    "lon": -71.1460555,
+                    "south": 41.7084598,
+                    "east": -71.143899,
+                    "north": 41.7109147,
+                    "place": "Massachusetts",
+                    "west": -71.148212,
+                    "lat": 41.7096872,
+                    "country": "USA"
+                },
+                "name": "Charlton Memorial Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Caritas Good Samaritan Hospital - Cardinal Cushing Campus",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "2351111",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 2351111,
+                "distance": 78280,
+                "location": {
+                    "lon": -71.0622395,
+                    "south": 42.09552,
+                    "east": -71.058707,
+                    "north": 42.100475,
+                    "place": "Massachusetts",
+                    "west": -71.065772,
+                    "lat": 42.0979975,
+                    "country": "USA"
+                },
+                "name": "Caritas Good Samaritan Hospital - Cardinal Cushing Campus",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Brockton Veterans Administration Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "1200330",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 1200330,
+                "distance": 78616,
+                "location": {
+                    "lon": -71.0527415,
+                    "south": 42.055315,
+                    "east": -71.047554,
+                    "north": 42.066316,
+                    "place": "Massachusetts",
+                    "west": -71.057929,
+                    "lat": 42.0608155,
+                    "country": "USA"
+                },
+                "name": "Brockton Veterans Administration Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "old Newport Naval Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "18831072",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 18831072,
+                "distance": 79122,
+                "location": {
+                    "lon": -71.3207424,
+                    "south": 41.5008719,
+                    "east": -71.3199914,
+                    "north": 41.5023102,
+                    "place": "Rhode Island",
+                    "west": -71.3214934,
+                    "lat": 41.501591,
+                    "country": "USA"
+                },
+                "name": "old Newport Naval Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Faulkner Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "52842",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 52842,
+                "distance": 79364,
+                "location": {
+                    "lon": -71.128652,
+                    "south": 42.3009166,
+                    "east": -71.1278138,
+                    "north": 42.3023966,
+                    "place": "Massachusetts",
+                    "west": -71.1294901,
+                    "lat": 42.3016566,
+                    "country": "USA"
+                },
+                "name": "Faulkner Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Emerson Hospital Health Center ",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "1192955",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 1192955,
+                "distance": 79600,
+                "location": {
+                    "lon": -71.417377,
+                    "south": 42.570357,
+                    "east": -71.416983,
+                    "north": 42.570793,
+                    "place": "Massachusetts",
+                    "west": -71.417771,
+                    "lat": 42.570575,
+                    "country": "USA"
+                },
+                "name": "Emerson Hospital Health Center ",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "McLean Psychiatric Hospital ",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "6508501",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 6508501,
+                "distance": 79875,
+                "location": {
+                    "lon": -71.1898721,
+                    "south": 42.3911195,
+                    "east": -71.1863637,
+                    "north": 42.39543,
+                    "place": "Massachusetts",
+                    "west": -71.1933804,
+                    "lat": 42.3932747,
+                    "country": "USA"
+                },
+                "name": "McLean Psychiatric Hospital ",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Newport Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "19257511",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 19257511,
+                "distance": 80306,
+                "location": {
+                    "lon": -71.3063979,
+                    "south": 41.4965648,
+                    "east": -71.3052392,
+                    "north": 41.4981076,
+                    "place": "Rhode Island",
+                    "west": -71.3075566,
+                    "lat": 41.4973362,
+                    "country": "USA"
+                },
+                "name": "Newport Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Newport Hospital Parking",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "19257516",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 19257516,
+                "distance": 80344,
+                "location": {
+                    "lon": -71.3066983,
+                    "south": 41.4961952,
+                    "east": -71.3060224,
+                    "north": 41.497055,
+                    "place": "Rhode Island",
+                    "west": -71.3073742,
+                    "lat": 41.4966251,
+                    "country": "USA"
+                },
+                "name": "Newport Hospital Parking",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Newport Hospital Parking",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "19257518",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 19257518,
+                "distance": 80432,
+                "location": {
+                    "lon": -71.3051373,
+                    "south": 41.4961148,
+                    "east": -71.3044667,
+                    "north": 41.4972639,
+                    "place": "Rhode Island",
+                    "west": -71.3058078,
+                    "lat": 41.4966893,
+                    "country": "USA"
+                },
+                "name": "Newport Hospital Parking",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Franciscan Children's Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "1768008",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 1768008,
+                "distance": 80705,
+                "location": {
+                    "lon": -71.1432928,
+                    "south": 42.3493943,
+                    "east": -71.1415601,
+                    "north": 42.3507066,
+                    "place": "Massachusetts",
+                    "west": -71.1450255,
+                    "lat": 42.3500504,
+                    "country": "USA"
+                },
+                "name": "Franciscan Children's Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Milton Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "2351135",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 2351135,
+                "distance": 81168,
+                "location": {
+                    "lon": -71.0769913,
+                    "south": 42.2499,
+                    "east": -71.0755026,
+                    "north": 42.2522587,
+                    "place": "Massachusetts",
+                    "west": -71.0784799,
+                    "lat": 42.2510793,
+                    "country": "USA"
+                },
+                "name": "Milton Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Beth Israel Deaconess HealthCare Lexington/Childrens Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "25744776",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 25744776,
+                "distance": 81244,
+                "location": {
+                    "lon": -71.2520959,
+                    "south": 42.4750921,
+                    "east": -71.2516077,
+                    "north": 42.4758439,
+                    "place": "Massachusetts",
+                    "west": -71.252584,
+                    "lat": 42.475468,
+                    "country": "USA"
+                },
+                "name": "Beth Israel Deaconess HealthCare Lexington/Childrens Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Lemuel Shattuck Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "1487744",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 1487744,
+                "distance": 81273,
+                "location": {
+                    "lon": -71.101799,
+                    "south": 42.2980242,
+                    "east": -71.0999751,
+                    "north": 42.3006587,
+                    "place": "Massachusetts",
+                    "west": -71.1036229,
+                    "lat": 42.2993414,
+                    "country": "USA"
+                },
+                "name": "Lemuel Shattuck Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Lexington-Bedford Veterinary Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "1920081",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 1920081,
+                "distance": 81312,
+                "location": {
+                    "lon": -71.2510425,
+                    "south": 42.4753751,
+                    "east": -71.2508789,
+                    "north": 42.4756303,
+                    "place": "Massachusetts",
+                    "west": -71.2512061,
+                    "lat": 42.4755027,
+                    "country": "USA"
+                },
+                "name": "Lexington-Bedford Veterinary Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Angell Memorial Animal Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "937064",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 937064,
+                "distance": 81681,
+                "location": {
+                    "lon": -71.1110936,
+                    "south": 42.3223561,
+                    "east": -71.1104371,
+                    "north": 42.3234478,
+                    "place": "Massachusetts",
+                    "west": -71.11175,
+                    "lat": 42.3229019,
+                    "country": "USA"
+                },
+                "name": "Angell Memorial Animal Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Jamaica Plain VA Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "2365929",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 2365929,
+                "distance": 81966,
+                "location": {
+                    "lon": -71.1100415,
+                    "south": 42.325995,
+                    "east": -71.1088586,
+                    "north": 42.3282993,
+                    "place": "Massachusetts",
+                    "west": -71.1112243,
+                    "lat": 42.3271471,
+                    "country": "USA"
+                },
+                "name": "Jamaica Plain VA Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Edith Nourse Rogers Memorial Veterans Hospital (Bedford VA)",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "1917308",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 1917308,
+                "distance": 82100,
+                "location": {
+                    "lon": -71.2740183,
+                    "south": 42.5019401,
+                    "east": -71.2713146,
+                    "north": 42.5084259,
+                    "place": "Massachusetts",
+                    "west": -71.276722,
+                    "lat": 42.505183,
+                    "country": "USA"
+                },
+                "name": "Edith Nourse Rogers Memorial Veterans Hospital (Bedford VA)",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "New England Baptist Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "2350906",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 2350906,
+                "distance": 82280,
+                "location": {
+                    "lon": -71.1074048,
+                    "south": 42.3286403,
+                    "east": -71.1060208,
+                    "north": 42.3305162,
+                    "place": "Massachusetts",
+                    "west": -71.1087888,
+                    "lat": 42.3295782,
+                    "country": "USA"
+                },
+                "name": "New England Baptist Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Brigham and Womens Hospital Shapiro Heart Center",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "12011779",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 12011779,
+                "distance": 82535,
+                "location": {
+                    "lon": -71.1081237,
+                    "south": 42.3354613,
+                    "east": -71.1076516,
+                    "north": 42.3361691,
+                    "place": "Massachusetts",
+                    "west": -71.1085957,
+                    "lat": 42.3358152,
+                    "country": "USA"
+                },
+                "name": "Brigham and Womens Hospital Shapiro Heart Center",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Brigham and Women's Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "29718",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 29718,
+                "distance": 82635,
+                "location": {
+                    "lon": -71.1069516,
+                    "south": 42.3352551,
+                    "east": -71.1053503,
+                    "north": 42.3369007,
+                    "place": "Massachusetts",
+                    "west": -71.1085528,
+                    "lat": 42.3360779,
+                    "country": "USA"
+                },
+                "name": "Brigham and Women's Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Mount Auburn Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "42401",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 42401,
+                "distance": 82671,
+                "location": {
+                    "lon": -71.134121,
+                    "south": 42.3733655,
+                    "east": -71.1328322,
+                    "north": 42.3748002,
+                    "place": "Massachusetts",
+                    "west": -71.1354098,
+                    "lat": 42.3740828,
+                    "country": "USA"
+                },
+                "name": "Mount Auburn Hospital",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Children's Hospital - Original Building",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "123060",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 123060,
+                "distance": 82857,
+                "location": {
+                    "lon": -71.1048299,
+                    "south": 42.3371545,
+                    "east": -71.1043954,
+                    "north": 42.33767,
+                    "place": "Massachusetts",
+                    "west": -71.1052644,
+                    "lat": 42.3374122,
+                    "country": "USA"
+                },
+                "name": "Children's Hospital - Original Building",
+                "url": null
+            }
+        },
+        {
+            "datatype": "EVENT",
+            "label": "Caritas Carney Hospital",
+            "description":  "",
+            "parentuuid":  "",
+            "uuid":  "2350997",
+            "starttime": "Fri Jan 25 09:49:21 EST 2013",
+            "location": { "type": "Point",
+                "coordinates": [ 46.995, -99.334 ],
+                "properties": {  "circularError": 10 }
+            },
+
+            "ext": {
+                "id": 2350997,
+                "distance": 83100,
+                "location": {
+                    "lon": -71.0653371,
+                    "south": 42.2761776,
+                    "east": -71.0638833,
+                    "north": 42.2785789,
+                    "place": "Massachusetts",
+                    "west": -71.0667908,
+                    "lat": 42.2773782,
+                    "country": "USA"
+                },
+                "name": "Caritas Carney Hospital",
+                "url": null
+            }
+        }
+    ]
+}

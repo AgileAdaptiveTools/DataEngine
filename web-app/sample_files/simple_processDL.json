@@ -1,0 +1,11 @@
+{
+    "version":"Process Description Language (IDL) v1.1301.22",
+    "pdl_uuid":123456789,
+    "title":  "XYZ from ABC and DEF",
+    "poc":  "jane@example.com (Jane Smith)",
+    "creationDate":  "2013-01-18T06:00:02Z",
+    "modificationDate":  "2013-01-18T06:00:02Z",
+    "description":  "Inner join on ABC and DEF to create something more useful for XYZ in google map",
+    "select": [ "$1.name", "$1.date", "$2.modifiedDate", "$1.address", "$2.numKeys" ],
+    "where": "$1.uuid == $2.uuid"
+}
