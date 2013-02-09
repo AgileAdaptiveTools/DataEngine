@@ -67,7 +67,6 @@ class IdlController extends GenericProcessController
     }
 
 
-
     /** http POST
      *  does the equivalent of CREATE, that is, assigns an arbitrary uuid we call idl_uri
      *  if params include a uuid (that is, if you're using it as a PUT), this method will
@@ -124,7 +123,7 @@ class IdlController extends GenericProcessController
                 newObj.modificationDate = newObj.creationDate
                 newObj.dslv = dslvString//.substring( 1, dslvString.size() - 1 )    // add it in as a String
 
-                assert newObj.getDslvAsMap() instanceof Map<String,String>
+//                assert newObj.getDslvAsMap() instanceof Map<String,String>
 
                 if ( !newObj.validate() )
                 {
@@ -182,10 +181,21 @@ class IdlController extends GenericProcessController
                 }
                 else
                 {
-                    def jsonBody = request.JSON
+//                    def jsonBody = request.JSON
+                    StringWriter writer = new StringWriter();
+                    IOUtils.copy( request.getInputStream(), writer );
+                    String bodyString = writer.toString();
+                    log.debug "${actionName}() >> inputstream=${bodyString}"
+                    def slurper = new JsonSlurper()
+                    def result = slurper.parseText( bodyString )
+                    String dslvString = result.dslv as JSON
+                    result.dslv = ""    // get rid of this so it can be used to create a new object
+                    def jsonBody = result
+
                     log.debug "${actionName}() >> body=${jsonBody}"
                     obj.properties = jsonBody
                     obj.modificationDate = new Date()//.format( "yyyy-MM-dd'T'HH:mm:ss.SSSZ" )
+                    obj.dslv = dslvString
 
                     if ( !obj.validate() )
                     {
