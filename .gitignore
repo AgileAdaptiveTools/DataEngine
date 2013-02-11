@@ -42,3 +42,15 @@
 # other
 *.iws
 
+.idea/.name
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+.idea/encodings.xml
+.idea/scopes/scope_settings.xml
+.idea/uiDesigner.xml
+.idea/vcs.xml
+.idea/workspace.xml
+DataEngine.git-grailsPlugins.iml
+DataEngine.git.iml
+dataEngineDevelopmentDb.h2.db
+dataEngineDevelopmentDb.lock.db

@@ -1,23 +1,15 @@
-<%--
-  Created by IntelliJ IDEA.
-  User: hkong
-  Date: 11/15/12
-  Time: 6:16 PM
-  To change this template use File | Settings | File Templates.
---%>
-
 <%@ page contentType="text/html;charset=UTF-8" %>
 <html>
 <head>
     <meta name="layout" content="main"/>
-    <title>IDL Documentation and Sandbox</title>
+    <title>IDL Service Documentation and Sandbox</title>
 </head>
 
 <body>
 
     <h2>REST Service Documentation and Sandbox for /idl</h2>
 
-    <p>This service provides full CRUD capability for the Ingest Description Language (IDL),
+    <p>This service provides full CRUD capability for the <a href="/DataEngine/idl/idl.gsp">Ingest Description Language</a> (IDL),
         used to describe a data source for use in the DataEngine.</p>
     <p>There are 4 ways to use this service, corresponding to standard REST services:</p>
     <ul>

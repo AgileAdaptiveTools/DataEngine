@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/html">
 <head>
     <meta name="layout" content="main"/>
-    <title>Join Documentation and Sandbox</title>
+    <title>Join Service Documentation and Sandbox</title>
 </head>
 
 <body>

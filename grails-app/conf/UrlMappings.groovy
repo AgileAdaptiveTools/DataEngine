@@ -4,6 +4,7 @@ class UrlMappings
 	{
 		"/about"( view:"/about")
         "/csvSlurper/$id?" ( controller:"csvSlurper", action:"index" )
+        "/idl/idl.gsp" ( controller: "idl", view: "idl")
         "/product/$id?" ( controller:"product", action:"index" )
         "/setting" ( controller:"setting", action:"index" )
         "/source/$feedpath**?" ( controller:"source", action:"index" )

@@ -60,6 +60,9 @@ class RecordMapper
                         case "country":
                             processCountry( matchKey, dslvItem.key, item, params, record )
                             break;
+                        case "date":
+                            processDate( matchKey, dslvItem.key, item, params, record )
+                            break;
                         case "integer":
                             processInteger( matchKey, dslvItem.key, item, params, record )
                             break;
@@ -72,8 +75,6 @@ class RecordMapper
                         case "string":
                             processString( matchKey, dslvItem.key, item, params, record )
                             break;
-                        case "country":
-                        case "date":
                         default:
                             println "   is a ..."
                             break;
@@ -96,6 +97,27 @@ class RecordMapper
                 break;
             case "\$lon":
                 record.lon = value
+                break;
+            default:    // change name of key in ext
+                println "old name=${col}, new name=${newName}"
+                break;
+        }
+        log.debug "returning record=\n${record}"
+    }
+
+
+    /** processes a String value */
+    void processDate( String col, String dslvKey, String value, List params, Record record )
+    {
+        log.debug "processDate( col=${col}, dslvKey=${dslvKey}, value=${value}, params=${params} )"
+        log.debug "   record=${record}"
+        Date date = Date.parse( "yyyy-MM-dd'T'HH:mm:ss", value ) // HH:mm:ssZ
+        // better way to do this is to use jChronic:  http://stackoverflow.com/questions/3817862/groovy-string-to-date
+        String newName = params[2]
+        switch ( newName )
+        {
+            case "\$startTime":
+                record.starttime = date
                 break;
             default:    // change name of key in ext
                 println "old name=${col}, new name=${newName}"

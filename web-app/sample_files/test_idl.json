@@ -1,9 +1,9 @@
 {
     "version":"Ingest Description Language (IDL) v1.1302.08",
-    "idl_uuid":12345,
-    "title":"Hospitals from wikimapia",
+    "idl_uuid":123,
+    "title":"Test IDL Data",
     "poc":"john@example.com (John Smith)",
-    "source":"http://localhost:8080/DataEngine/sample_files/wikimapia_hospitals.json",
+    "source":"http://localhost:8080/DataEngine/sample_files/test_idl_data.json",
     "source_format":"json",
     "description":"Description of the datafeed",
     "dslv":{
@@ -12,8 +12,6 @@
         "name":[ "String", "$title" ],
         "location.lon":[ "LatLonAlt", "WGS84_Map", "$lon" ],
         "location.lat":[ "LatLonAlt", "WGS84_Map", "$lat" ],
-        "location.place":[ "Hashmap", "state" ],
-        "location.country": [ "Country", "countryCode3", "country" ],
-        "address":[ "LatLonAlt", "StreetAddress", "Latitude", "Longitude", "Altitude" ]
+        "updateDate":[ "Date", "ISO8601", "$startTime" ]
     }
 }

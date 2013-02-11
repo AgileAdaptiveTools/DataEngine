@@ -39,6 +39,7 @@ class Idl
         title( size:0..1024 )
         poc( size:0..1024 )
         source( nullable: true, size:0..2048 )
+        source_uri( nullable: true, size:0..2048 )
         dslv( nullable: true )
     }
 
