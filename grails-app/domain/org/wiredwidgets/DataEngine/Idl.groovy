@@ -8,7 +8,7 @@ import grails.converters.JSON
 class Idl
 {
     /* ----- constants ----- */
-    static String kIdlVersion = "Ingest Description Language (IDL) v1.1212.27"
+    static String kIdlVersion = "Ingest Description Language (IDL) v1.1302.08"
 
 //    String id
 //    String idl_uri     // URL to this IDL, basically, http(s)://localhost_url/DataEngine/idl/uuid, used as a UUID
@@ -39,7 +39,9 @@ class Idl
         title( size:0..1024 )
         poc( size:0..1024 )
         source( nullable: true, size:0..2048 )
+        source_format( nullable: true )
         source_uri( nullable: true, size:0..2048 )
+        description( nullable: true )
         dslv( nullable: true )
     }
 
