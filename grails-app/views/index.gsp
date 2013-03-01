@@ -36,6 +36,8 @@
             <dd> Service that provide full CRUD for working with IDLs (Ingest Description Language), used to describe a data source</dd>
             <dt> <a href="/DataEngine/jsonSlurper/index.html">/jsonSlurper</a> </dt>
             <dd> Service that ingests a JSON data feed.  Example:  <a href="/DataEngine/jsonSlurper?url=http://localhost:8080/DataEngine/sample_files/wikimapia_hospitals.json">/DataEngine/csvSlurper?url=http://localhost:8080/DataEngine/sample_files/wikimapia_hospitals.json</a></dd>
+            <dt> <a href="/DataEngine/pdl/index.html">/pdl</a> </dt>
+            <dd> Service that provide full CRUD for working with PDLs (Process Description Language), used to describe how to process data sources</dd>
             <dt> <a href="/DataEngine/source/index.html">/source</a> </dt>
             <dd> Simple service that retrieves a data source from any server.  Example:  <a href="/DataEngine/source?url=http://localhost:8080/DataEngine/product/sample_files_sample_cwl.json">/DataEngine/source?url=http://localhost:8080/DataEngine/product/sample_files_sample_cwl.json</a></dd>
         </dl>
